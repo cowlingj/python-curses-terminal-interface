@@ -4,4 +4,4 @@ It's like an old school dumb terminal, in the sense that it does nothing with th
 that is the job of any program using the interface.
 
 ## Usage
-create a CursesApplication object and use the two methods supplied **__getMessage()__** and **__setResponse(text_to_output)__**.
+create a App object and use the two instance methods supplied **__getMessage()__** and **__setResponse(text_to_output)__**.
